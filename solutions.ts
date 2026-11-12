@@ -1,4 +1,4 @@
-//Problem 1:
+
 
 function multiplyValue (value : number, multiplier? : number) {
 
